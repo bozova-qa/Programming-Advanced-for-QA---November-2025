@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabStringsTextProcessing\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D21AA0F1-4163-4E69-8621-D05856CE9F5C}|02.RepeatStrings\\02.RepeatStrings.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\labstringstextprocessing\\02.repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21AA0F1-4163-4E69-8621-D05856CE9F5C}|02.RepeatStrings\\02.RepeatStrings.csproj|solutionrelative:02.repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50CFCCD6-2B16-44A5-8E09-3DDAA12EFF47}|01.ReverseStrings\\01.ReverseStrings.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\labstringstextprocessing\\01.reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50CFCCD6-2B16-44A5-8E09-3DDAA12EFF47}|01.ReverseStrings\\01.ReverseStrings.csproj|solutionrelative:01.reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,6 +28,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabStringsTextProcessing\\02.RepeatStrings\\Program.cs",
+              "RelativeDocumentMoniker": "02.RepeatStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabStringsTextProcessing\\02.RepeatStrings\\Program.cs",
+              "RelativeToolTip": "02.RepeatStrings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:31:55.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabStringsTextProcessing\\01.ReverseStrings\\Program.cs",
               "RelativeDocumentMoniker": "01.ReverseStrings\\Program.cs",
               "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabStringsTextProcessing\\01.ReverseStrings\\Program.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabStringsTextProcessing\\05.DigitsLettersAndOther\\Program.cs",
               "RelativeDocumentMoniker": "05.DigitsLettersAndOther\\Program.cs",
