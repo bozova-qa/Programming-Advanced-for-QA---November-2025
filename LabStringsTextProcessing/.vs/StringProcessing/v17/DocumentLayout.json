@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabStringsTextProcessing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D21AA0F1-4163-4E69-8621-D05856CE9F5C}|02.RepeatStrings\\02.RepeatStrings.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\labstringstextprocessing\\02.repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21AA0F1-4163-4E69-8621-D05856CE9F5C}|02.RepeatStrings\\02.RepeatStrings.csproj|solutionrelative:02.repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFCCD6-2B16-44A5-8E09-3DDAA12EFF47}|01.ReverseStrings\\01.ReverseStrings.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\labstringstextprocessing\\01.reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFCCD6-2B16-44A5-8E09-3DDAA12EFF47}|01.ReverseStrings\\01.ReverseStrings.csproj|solutionrelative:01.reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1AB1F5F-B0DD-4E79-B668-C631B53B19F5}|05.DigitsLettersAndOther\\05.DigitsLettersAndOther.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\labstringstextprocessing\\05.digitslettersandother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1AB1F5F-B0DD-4E79-B668-C631B53B19F5}|05.DigitsLettersAndOther\\05.DigitsLettersAndOther.csproj|solutionrelative:05.digitslettersandother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabStringsTextProcessing\\02.RepeatStrings\\Program.cs",
+              "RelativeDocumentMoniker": "02.RepeatStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabStringsTextProcessing\\02.RepeatStrings\\Program.cs",
+              "RelativeToolTip": "02.RepeatStrings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:31:55.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabStringsTextProcessing\\01.ReverseStrings\\Program.cs",
+              "RelativeDocumentMoniker": "01.ReverseStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabStringsTextProcessing\\01.ReverseStrings\\Program.cs",
+              "RelativeToolTip": "01.ReverseStrings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:28:27.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabStringsTextProcessing\\05.DigitsLettersAndOther\\Program.cs",
+              "RelativeDocumentMoniker": "05.DigitsLettersAndOther\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabStringsTextProcessing\\05.DigitsLettersAndOther\\Program.cs",
+              "RelativeToolTip": "05.DigitsLettersAndOther\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T06:12:44.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
