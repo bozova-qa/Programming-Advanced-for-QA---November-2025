@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\Dictionaries, Lambda and LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4EAA733-4942-4ECE-91DE-E42A9E9E24C7}|04.WordFilter\\04.WordFilter.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\dictionaries, lambda and linq\\04.wordfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4EAA733-4942-4ECE-91DE-E42A9E9E24C7}|04.WordFilter\\04.WordFilter.csproj|solutionrelative:04.wordfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0330CAD8-1B55-4A90-A2F0-8A1E7897B7A8}|LINQ-Demo\\LINQ-Demo.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\dictionaries, lambda and linq\\linq-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0330CAD8-1B55-4A90-A2F0-8A1E7897B7A8}|LINQ-Demo\\LINQ-Demo.csproj|solutionrelative:linq-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316D6C31-BE0C-41C0-9D8D-A59AC439CCEE}|06.AMinerTask\\06.AMinerTask.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\dictionaries, lambda and linq\\06.aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316D6C31-BE0C-41C0-9D8D-A59AC439CCEE}|06.AMinerTask\\06.AMinerTask.csproj|solutionrelative:06.aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9379219-4054-4C7D-B26D-B1CD982FBBA6}|03.WordSynonyms\\03.WordSynonyms.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\dictionaries, lambda and linq\\03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9379219-4054-4C7D-B26D-B1CD982FBBA6}|03.WordSynonyms\\03.WordSynonyms.csproj|solutionrelative:03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC57D51-9965-4152-9C41-A6916D71D656}|02.OddOccurrences\\02.OddOccurrences.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\dictionaries, lambda and linq\\02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC57D51-9965-4152-9C41-A6916D71D656}|02.OddOccurrences\\02.OddOccurrences.csproj|solutionrelative:02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418DD021-55CD-42E2-8E82-C9E0579D1A5E}|Demo-Dictionaries\\Demo-Dictionaries.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\dictionaries, lambda and linq\\demo-dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418DD021-55CD-42E2-8E82-C9E0579D1A5E}|Demo-Dictionaries\\Demo-Dictionaries.csproj|solutionrelative:demo-dictionaries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\Dictionaries, Lambda and LINQ\\LINQ-Demo\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ-Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\Dictionaries, Lambda and LINQ\\LINQ-Demo\\Program.cs",
+              "RelativeToolTip": "LINQ-Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:03:45.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\Dictionaries, Lambda and LINQ\\04.WordFilter\\Program.cs",
+              "RelativeDocumentMoniker": "04.WordFilter\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\Dictionaries, Lambda and LINQ\\04.WordFilter\\Program.cs",
+              "RelativeToolTip": "04.WordFilter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:46:36.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\Dictionaries, Lambda and LINQ\\06.AMinerTask\\Program.cs",
+              "RelativeDocumentMoniker": "06.AMinerTask\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\Dictionaries, Lambda and LINQ\\06.AMinerTask\\Program.cs",
+              "RelativeToolTip": "06.AMinerTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:15:42.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\Dictionaries, Lambda and LINQ\\03.WordSynonyms\\Program.cs",
+              "RelativeDocumentMoniker": "03.WordSynonyms\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\Dictionaries, Lambda and LINQ\\03.WordSynonyms\\Program.cs",
+              "RelativeToolTip": "03.WordSynonyms\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T06:00:19.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\Dictionaries, Lambda and LINQ\\02.OddOccurrences\\Program.cs",
+              "RelativeDocumentMoniker": "02.OddOccurrences\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\Dictionaries, Lambda and LINQ\\02.OddOccurrences\\Program.cs",
+              "RelativeToolTip": "02.OddOccurrences\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvx8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:11:01.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\Dictionaries, Lambda and LINQ\\Demo-Dictionaries\\Program.cs",
+              "RelativeDocumentMoniker": "Demo-Dictionaries\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\Dictionaries, Lambda and LINQ\\Demo-Dictionaries\\Program.cs",
+              "RelativeToolTip": "Demo-Dictionaries\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv0YAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T15:05:03.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

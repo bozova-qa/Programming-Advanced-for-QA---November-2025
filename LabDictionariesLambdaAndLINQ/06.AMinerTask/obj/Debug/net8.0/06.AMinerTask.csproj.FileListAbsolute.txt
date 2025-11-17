@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\Dictionaries, Lambda and LINQ\06.AMinerTask\bin\Debug\net8.0\06.AMinerTask.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\Dictionaries, Lambda and LINQ\06.AMinerTask\bin\Debug\net8.0\06.AMinerTask.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\Dictionaries, Lambda and LINQ\06.AMinerTask\bin\Debug\net8.0\06.AMinerTask.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\Dictionaries, Lambda and LINQ\06.AMinerTask\bin\Debug\net8.0\06.AMinerTask.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\Dictionaries, Lambda and LINQ\06.AMinerTask\bin\Debug\net8.0\06.AMinerTask.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\Dictionaries, Lambda and LINQ\06.AMinerTask\obj\Debug\net8.0\06.AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\Dictionaries, Lambda and LINQ\06.AMinerTask\obj\Debug\net8.0\06.AMinerTask.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\Dictionaries, Lambda and LINQ\06.AMinerTask\obj\Debug\net8.0\06.AMinerTask.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\Dictionaries, Lambda and LINQ\06.AMinerTask\obj\Debug\net8.0\06.AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\Dictionaries, Lambda and LINQ\06.AMinerTask\obj\Debug\net8.0\06.AMinerTask.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\Dictionaries, Lambda and LINQ\06.AMinerTask\obj\Debug\net8.0\refint\06.AMinerTask.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\Dictionaries, Lambda and LINQ\06.AMinerTask\obj\Debug\net8.0\06.AMinerTask.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\Dictionaries, Lambda and LINQ\06.AMinerTask\obj\Debug\net8.0\06.AMinerTask.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\Dictionaries, Lambda and LINQ\06.AMinerTask\obj\Debug\net8.0\ref\06.AMinerTask.dll
