@@ -1,0 +1,14 @@
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\ExerciseObjectsAndClasses\01. Students\bin\Debug\net8.0\01. Students.exe
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\ExerciseObjectsAndClasses\01. Students\bin\Debug\net8.0\01. Students.deps.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\ExerciseObjectsAndClasses\01. Students\bin\Debug\net8.0\01. Students.runtimeconfig.json
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\ExerciseObjectsAndClasses\01. Students\bin\Debug\net8.0\01. Students.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\ExerciseObjectsAndClasses\01. Students\bin\Debug\net8.0\01. Students.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\ExerciseObjectsAndClasses\01. Students\obj\Debug\net8.0\01. Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\ExerciseObjectsAndClasses\01. Students\obj\Debug\net8.0\01. Students.AssemblyInfoInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\ExerciseObjectsAndClasses\01. Students\obj\Debug\net8.0\01. Students.AssemblyInfo.cs
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\ExerciseObjectsAndClasses\01. Students\obj\Debug\net8.0\01. Students.csproj.CoreCompileInputs.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\ExerciseObjectsAndClasses\01. Students\obj\Debug\net8.0\01. Students.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\ExerciseObjectsAndClasses\01. Students\obj\Debug\net8.0\refint\01. Students.dll
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\ExerciseObjectsAndClasses\01. Students\obj\Debug\net8.0\01. Students.pdb
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\ExerciseObjectsAndClasses\01. Students\obj\Debug\net8.0\01. Students.genruntimeconfig.cache
+C:\Users\nadez\Documents\Softuni\QA\Programming Advanced for QA\repos\ExerciseObjectsAndClasses\01. Students\obj\Debug\net8.0\ref\01. Students.dll
