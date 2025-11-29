@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabExceptionHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C12A6D7-BB3F-4838-8E97-8E9EAAB37487}|03.SumOfIntegers\\03.SumOfIntegers.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\labexceptionhandling\\03.sumofintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C12A6D7-BB3F-4838-8E97-8E9EAAB37487}|03.SumOfIntegers\\03.SumOfIntegers.csproj|solutionrelative:03.sumofintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1328A70-0002-4330-8B1C-4E0FBE88CE37}|01.SquareRoot\\01.SquareRoot.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\labexceptionhandling\\01.squareroot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1328A70-0002-4330-8B1C-4E0FBE88CE37}|01.SquareRoot\\01.SquareRoot.csproj|solutionrelative:01.squareroot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B6E17D-CA64-4F31-9538-5C7ECE5A6414}|Demo-Handling_Exception\\Demo-Handling_Exception.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\labexceptionhandling\\demo-handling_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B6E17D-CA64-4F31-9538-5C7ECE5A6414}|Demo-Handling_Exception\\Demo-Handling_Exception.csproj|solutionrelative:demo-handling_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B6E17D-CA64-4F31-9538-5C7ECE5A6414}|Demo-Handling_Exception\\Demo-Handling_Exception.csproj|c:\\users\\nadez\\documents\\softuni\\qa\\programming advanced for qa\\repos\\labexceptionhandling\\demo-handling_exception\\demo-handling_exception.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23B6E17D-CA64-4F31-9538-5C7ECE5A6414}|Demo-Handling_Exception\\Demo-Handling_Exception.csproj|solutionrelative:demo-handling_exception\\demo-handling_exception.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabExceptionHandling\\03.SumOfIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "03.SumOfIntegers\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabExceptionHandling\\03.SumOfIntegers\\Program.cs",
+              "RelativeToolTip": "03.SumOfIntegers\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:58:33.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabExceptionHandling\\Demo-Handling_Exception\\Program.cs",
+              "RelativeDocumentMoniker": "Demo-Handling_Exception\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabExceptionHandling\\Demo-Handling_Exception\\Program.cs",
+              "RelativeToolTip": "Demo-Handling_Exception\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:07:21.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Demo-Handling_Exception",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabExceptionHandling\\Demo-Handling_Exception\\Demo-Handling_Exception.csproj",
+              "RelativeDocumentMoniker": "Demo-Handling_Exception\\Demo-Handling_Exception.csproj",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabExceptionHandling\\Demo-Handling_Exception\\Demo-Handling_Exception.csproj",
+              "RelativeToolTip": "Demo-Handling_Exception\\Demo-Handling_Exception.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T09:07:18.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabExceptionHandling\\01.SquareRoot\\Program.cs",
+              "RelativeDocumentMoniker": "01.SquareRoot\\Program.cs",
+              "ToolTip": "C:\\Users\\nadez\\Documents\\Softuni\\QA\\Programming Advanced for QA\\repos\\LabExceptionHandling\\01.SquareRoot\\Program.cs",
+              "RelativeToolTip": "01.SquareRoot\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:59:14.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
