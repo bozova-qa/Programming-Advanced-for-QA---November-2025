@@ -1,0 +1,15 @@
+{
+  "name": "unit-testing-with-js",
+  "version": "1.0.0",
+  "description": "This is a test project.",
+  "type": "module",
+  "main": "book.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nadezhda Bozova",
+  "license": "ISC",
+  "dependencies": {
+    "d3.js": "^0.0.2-security"
+  }
+}

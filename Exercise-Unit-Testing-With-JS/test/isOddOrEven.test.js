@@ -1,0 +1,48 @@
+import { isOddOrEven } from '../isOddOrEven.js'
+import {describe} from 'mocha'
+import {assert, expect} from 'chai'
+
+describe('test_isOddOrEven',() =>{
+    it('should return undefined if input parameter is not a string', () => {
+        // Arrange
+        let input = 42;
+
+        // Act
+        let result = isOddOrEven(input);
+    
+        //Assert
+        expect(result).to.be.undefined;                 //number
+        expect(isOddOrEven([42])).to.be.undefined;      //array
+        expect(isOddOrEven({})).to.be.undefined;        //object
+        expect(isOddOrEven(null)).to.be.undefined;      //null
+        expect(isOddOrEven(undefined)).to.be.undefined; //undefined
+
+    }),
+
+    it('should return even if input parameter is with even length', () => {
+        // Arrange
+        let input = 'unit';
+        let expected = 'even';
+
+        // Act
+        let result = isOddOrEven(input);
+
+        // Assert
+        expect(result).to.equal(expected);
+
+    }),
+
+    it('should return odd if input parameter is odd', () => {
+        // Arrange
+        let input = 'hello';
+        let expected = 'odd';
+
+        // Act
+        let result = isOddOrEven(input);
+
+        // Assert
+        expect(result).to.equal(expected);
+    })
+
+ 
+});

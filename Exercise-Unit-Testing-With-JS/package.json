@@ -1,0 +1,17 @@
+{
+  "name": "exercise-unit-testing-with-js",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Nadezhda Bozova",
+  "license": "ISC",
+  "description": "Unit Tests with JavaScript - Exercise",
+  "dependencies": {
+    "chai": "^6.2.1",
+    "mocha": "^11.7.5"
+  }
+}
